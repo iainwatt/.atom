@@ -1,0 +1,13 @@
+"*":
+  core:
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 13
+    scrollPastEnd: true
+    zoomFontWhenCtrlScrolling: true
+  "exception-reporting":
+    userId: "375856d0-bb94-4f5d-be92-d56016d9eb60"
+  fonts:
+    fontFamily: "Hasklig Light"
+  welcome:
+    showOnStartup: false
